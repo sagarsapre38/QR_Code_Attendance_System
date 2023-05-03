@@ -1,0 +1,1 @@
+send_mail(receiver_address.get(), file_name)
